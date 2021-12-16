@@ -1,2 +1,3 @@
 # lirnazu-zuru
-lirnazu-zuru
+lirnazu.sh
+
